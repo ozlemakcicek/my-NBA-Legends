@@ -10,15 +10,20 @@ body {
  background-color: rgb(109, 176, 179);
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.header{
+  color: rgb(23, 88, 135);
+}
 
 .card-container{
-  background-image: url("https://p4.wallpaperbetter.com/wallpaper/661/973/110/cool-nba-logo-wallpaper-preview.jpg");
+  /* background-image: url("https://p4.wallpaperbetter.com/wallpaper/661/973/110/cool-nba-logo-wallpaper-preview.jpg"); */
+background-color: rgb(34, 85, 87);
   min-width: 300px;
 }
 .player-card{
   max-width: 280px;
   min-width: 230px;
 height: 400px;
+background-color: rgb(174, 239, 230);
 }
 
 .player-card:hover{
